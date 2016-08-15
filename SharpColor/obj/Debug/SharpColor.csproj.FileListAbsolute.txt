@@ -1,0 +1,4 @@
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\SharpColor\SharpColor\bin\Debug\SharpColor.dll
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\SharpColor\SharpColor\bin\Debug\SharpColor.pdb
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\SharpColor\SharpColor\obj\Debug\SharpColor.dll
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\SharpColor\SharpColor\obj\Debug\SharpColor.pdb

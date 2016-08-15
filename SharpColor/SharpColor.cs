@@ -8,7 +8,7 @@ using System.Drawing;
 
 namespace SharpColor
 {
-    public class SharpColor
+    public class MySharpColor
     {
         //Colors
         public Color SharpRed { get { return Color.FromArgb(255, 0, 0); } }
