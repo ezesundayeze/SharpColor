@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>12</id>
+    <version>1.0.0.0</version>
+    <title>$SharpColor$</title>
+    <authors>Eze Sunday Eze</authors>
+    <owners>Eze Sunday</owners>
+    <licenseUrl>https://opensource.org/licenses/FPL-1.0.0</licenseUrl>
+    <projectUrl>https://github.com/rexeze/SharpColor.git</projectUrl>
+    <iconUrl>http://facebook.com/Rexeze</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$Simple Color Library for C#$</description>
+    <releaseNotes>First Release of SharpColor Package</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>ColorLib ColorLibrary CSharp</tags>
+  </metadata>
+</package>
+
